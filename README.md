@@ -1,3 +1,5 @@
+2024-12-02
+
 This is an opensource tool to (legally) take down scam domains. It automates the boring abuse report process. Licensed under GNU GPLv3.
 
 Created by 
